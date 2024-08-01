@@ -1,9 +1,9 @@
 # Proposta 01
 
-## Aplicativo de Lista de Compras
+## Site de Lista de Compras
 
 ### Descrição
-Um aplicativo para criar e controlar listas de compras.
+Um site para criar e controlar listas de compras.
 
 ### Problema a ser solucionado
 Pessoas diariamente esquecem itens importantes quando vão fazer compras.
@@ -20,10 +20,10 @@ Pessoas que querem uma maneira fácil de lembrar o que comprar.
 
 # Proposta 02
 
-## Aplicativo de Lista de Tarefas
+## Site de Lista de Tarefas
 
 ### Descrição
-Um aplicativo simples para gerenciar listas de tarefas diárias e lembretes.
+Um site simples para gerenciar listas de tarefas diárias e lembretes.
 
 ### Problema a ser solucionado
 Pessoas que precisam de uma maneira fácil e prática de organizar suas tarefas diárias sem esquecer de compromissos importantes.
@@ -42,10 +42,10 @@ Estudantes, profissionais e qualquer pessoa que precise de um método simples pa
 
 # Proposta 03
 
-## Aplicativo de Cálculo de IMC
+## Site de Cálculo de IMC
 
 ### Descrição
-Desenvolver um aplicativo simples para calcular e monitorar o Índice de Massa Corporal (IMC) dos usuários.
+Desenvolver um site simples para calcular e monitorar o Índice de Massa Corporal (IMC) dos usuários.
 
 ### Problema a ser solucionado
 Facilitar o entendimento e acompanhamento do IMC, um indicador importante de saúde e peso corporal.
@@ -58,4 +58,3 @@ Pessoas interessadas em manter um estilo de vida saudável e acompanhar seu peso
 2. classificação: indica se o resultado está dentro dos padrões saudáveis.
 3. Histórico: registra e exibe mudanças ao longo do tempo para acompanhamento.
 4. Dicas de saúde: oferece orientações básicas com base no resultado do IMC.
-5. Interface: fácil de usar para todos, com visual limpo e sem complicações.
